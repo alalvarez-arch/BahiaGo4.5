@@ -1,0 +1,4 @@
+1) Descomprime este ZIP.
+2) Entra en la carpeta BahiaGo-V4.
+3) Sube TODOS los archivos y la carpeta icons a la raiz del repo de GitHub.
+4) Settings → Pages → Deploy from a branch → main → / (root).
